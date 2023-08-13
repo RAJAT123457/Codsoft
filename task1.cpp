@@ -7,7 +7,6 @@ int main() {
 	cout<<"This is a calculator"<<endl;
 	cout<<"Enter the first number:  ";
 	cin>>num1;
-	cout<<endl;
 	cout<<"Enter the second number:  ";
 	cin>>num2;
 	cout<<"Enter an operation (+,-,*,/):  " ;
